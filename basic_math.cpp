@@ -7,7 +7,7 @@
 #include <iostream>
 
 int main() {
-  // This function calculate the are and perimeter
+  // This function calculate the area and perimeter
 
   std::cout << "A rectangle with dimensions 5cm & 3cm." << std::endl;
   std::cout << "Calculate the area and perimeter." << std::endl;
