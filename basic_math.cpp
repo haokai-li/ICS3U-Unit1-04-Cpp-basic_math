@@ -1,6 +1,5 @@
 // Copyright (c) 2021 haokai All rights reserved
 //
-//
 // Created by: Haokai
 // Created on: Sept 2021
 // This is the "basic math" program, with proper style
